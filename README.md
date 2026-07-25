@@ -128,24 +128,6 @@ C --> B
 
 ---
 
-# 📂 Project Structure
-
-```text
-careerpilot-ai-web/
-
-├── app/
-├── components/
-├── context/
-├── lib/
-├── types/
-├── assets/
-│   └── screenshots/
-├── public/
-└── README.md
-```
-
----
-
 # 🚀 Getting Started
 
 ## Clone Repository
