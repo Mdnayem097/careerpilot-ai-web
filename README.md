@@ -36,9 +36,9 @@ https://careerpilot-ai-server-blond.vercel.app
 
 ---
 
-## 🎯 Career Recommendation
+## 🎯 Explore Career
 
-![Career Recommendation](assets/screenshots/Screenshot%202026-07-25%20115353.png)
+![Explore Career](assets/screenshots/Screenshot%202026-07-25%20115353.png)
 
 ---
 
